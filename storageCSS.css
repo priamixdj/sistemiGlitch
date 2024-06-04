@@ -1,0 +1,36 @@
+.cont_desc{
+	
+	font-size: 10pt;
+	
+}
+
+.cont_title{
+
+	font-size: 20pt;
+	
+}
+
+.image-side {
+    display: flex;          
+    justify-content: center; 
+    align-items: center;    
+    height: 120px;   
+	margin-bottom: 30px;
+}
+
+.image-side img {
+	
+    width: 300px; 
+    height: auto; 
+	
+}
+
+ header ul li img{
+                  width: 100px;
+                  margin-top: 50px;
+                  height: 100px;
+ }
+ 
+ .container{
+	 font-size: 15px;
+ }
